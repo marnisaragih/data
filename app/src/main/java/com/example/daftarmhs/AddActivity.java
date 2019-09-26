@@ -18,7 +18,7 @@ public class AddActivity extends AppCompatActivity {
         btnSave3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(AddActivity.this, MainActivity.class);
+                Intent i = new Intent(AddActivity.this, MainKelola.class);
                 startActivity(i);
             }
         });
