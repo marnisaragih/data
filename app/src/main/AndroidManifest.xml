@@ -12,7 +12,6 @@
         <activity android:name=".MainKelola"></activity>
         <activity android:name=".AddActivity" />
         <activity android:name=".EditActivity" />
-        <activity android:name=".activityRead" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
